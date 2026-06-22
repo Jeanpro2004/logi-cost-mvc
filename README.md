@@ -288,20 +288,10 @@ npm start
 
 ## Deploy
 
-El proyecto puede ser desplegado en Vercel.
-
-Pasos generales:
-
-1. Subir el repositorio a GitHub.
-2. Conectar el repositorio con Vercel.
-3. Configurar las variables de entorno en Vercel.
-4. Ejecutar el deploy.
-5. Abrir el link público del proyecto.
-
 Link del proyecto deployado:
 
 ```txt
-Pendiente agregar link de Vercel
+https://logi-cost-mvc.vercel.app/
 ```
 
 ---
@@ -311,17 +301,8 @@ Pendiente agregar link de Vercel
 Link del video explicativo:
 
 ```txt
-Pendiente agregar link de Loom o YouTube
+https://youtu.be/yuZobIVdAhE?si=KFbRF165POXO0spo
 ```
-
-El video debe mostrar:
-
-1. Estructura del proyecto.
-2. Separación Model / View / Controller.
-3. Funcionamiento del formulario.
-4. Resultado del cálculo por rango de fechas.
-5. Endpoint backend funcionando.
-
 ---
 
 ## Documentación y recursos utilizados
@@ -335,7 +316,7 @@ El video debe mostrar:
 
 ## Autor
 
-Jean Paul Rodríguez
+Jean Paul Rodríguez 
 
 ---
 
